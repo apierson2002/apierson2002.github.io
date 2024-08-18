@@ -1,0 +1,46 @@
+/* 
+name: Andrew Pierson
+Styles sheet for projects html
+*/
+
+body {
+	background-color: #d5f5e3;
+	text-align: left;
+	font-family: Georgia, serif;
+}
+
+.github{
+	text-align: center;
+	font-size: 1.25em;
+}
+
+h1 {
+	text-align: center;
+}
+
+img {
+	width: 22.5%;
+    height: auto;
+}
+.img{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.overview{
+	padding-left:50px;
+}
+
+.Experience {
+	padding-top: 0px;
+    padding-bottom: 0px;
+	padding-left:50px;
+    padding-right: 50px;
+}
+
+#updated { 
+	font-size: 0.50em;
+	text-align:right;
+}
